@@ -1,2 +1,2 @@
 # Loan-Approval-Analysis
-Explore which variables contribute to an individual's loan approval status and create the best prediction model.
+The purpose of the Data Mining and Learning algorithm techniques will be to build a series of Classification models and identify which feature(s) highly influence the decision to determine whether an individual is eligible for loan approval or not. Classification techniques and methods such as Logistic Regression, Random Forest Classifier, SVM and KNN model techniques will be implemented to study the testing and training sets. A thorough evaluation of the Classification Reports and correlation coefficient values will help answer the Research Question. 
